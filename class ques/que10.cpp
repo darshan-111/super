@@ -22,5 +22,6 @@ int main(){
     cin>>num2;
     int result = per(num1, num2);
     cout<<result;
+    cout<<"hello world";
     return 0;
 }
